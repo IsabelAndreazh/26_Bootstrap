@@ -1,0 +1,73 @@
+.pd-10{	padding: 10%;}
+.pd-3{	padding: 3%;}
+.pd-5{	padding: 5%;}
+.mg-10{	margin: 10%;}
+.pt-5{	padding-top: 5%;}
+.pt-1{	padding-top: 1%;}
+.pt-3{	padding-top: 3%;}
+.mt-5{	margin-top: 5%;}
+.mb-5{	margin-bottom: 5%;}
+.text-white{	color: white;}
+.bg-gray{	background-color: gray;}
+.bg-black{	background-color: black;}
+.logo{	width: 120px;}
+section{
+	background-color: gray;
+}
+.fondo1{
+	background-image: url("../image/header-image.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+	width: 	100%;
+	margin-top: 10%;
+	
+}
+#caja{
+	background-color: black;
+	width: 50%;
+	margin-top: 5% ;
+	margin-left: 25%;
+	background-position: center;
+	padding: 3%;
+
+}
+.caja{
+	background-color: black;
+	width: 100%;
+	padding: 3%;
+	padding-top: 5%;
+}
+.fotos{
+	background-repeat: no-repeat;
+	width: 	100%;
+}
+.youtube{
+	border-radius: 100%;
+}
+.search{
+	padding: 3%;
+	border-radius: 4%;
+	border:none;
+	background-color: gray;
+	margin: 5%;
+}
+h1 , h3{
+	color:#ED9821 !important;
+	font-family: Courgette !important;
+	text-align: center;
+}
+p{
+	color: white;
+	text-align: center;
+	font-family= Open+Sans:400,700,400italic !important;
+}
+/* Responsive */
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
